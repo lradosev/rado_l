@@ -1,0 +1,7 @@
+Leslie Radosevich 
+l296@cornell.edu 
+'''' # 5259543
+CHEME7770
+Abstract
+According to the World Health Organization, antibiotic resistance is a critical threat to global health and food security. The misuse of antibiotics is driving multi-drug resistance in gram negative bacteria, and by 2030 antimicrobial resistance in health care, trade, and livestock production is projected to result in annual gross domestic product shortfalls over $1 trillion annually. There is an imminent need for alternative treatments to prevent severe illness due to bacterial infection and the emergence of new drug-resistant bacterial strains. In particular, gram-negative bacteria have demonstrated up and down regulation of outer membrane proteins (Omps) in response to the addition of antibiotics, and as a driver for antimicrobial resistance. The objective of this project is to use whole cell modeling to model the production of outer-membrane protein A (OmpA), C (OmpC), and F (OmpF) in gram-negative bacteria Acinetobacter baumannii, E. coli, Salmonella, and Shigella bacterium, to determine major metabolic drivers for Omp production. By using metabolic flux analysis, as well as modeling gene expression dynamics, I hope to elucidate information about metabolic targets that influence Omp regulation, and thereby identify additional targets for antimicrobial interventions, and compare these results to real world data on Omp formation. 
+
